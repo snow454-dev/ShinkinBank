@@ -7,13 +7,13 @@ SNS未着手・放置状態の取引先に対する「60分診断」と、投稿
 
 PDF資料
 
-以下より、レポートPDFを確認できます。
+以下のURLからPDFを確認できます。
 
-📄 Instagram活用支援カリキュラム 経営陣向けレポートを開く
+https://github.com/snow454-dev/ShinkinBank/blob/main/Instagram_curriculum.pdf
 
-PDFがブラウザ上でうまく表示されない場合は、以下のリンクから直接開いてください。
+PDFがブラウザ上でうまく表示されない場合は、以下から直接開く、またはダウンロードしてください。
 
-⬇ PDFを直接開く・ダウンロードする
+https://raw.githubusercontent.com/snow454-dev/ShinkinBank/main/Instagram_curriculum.pdf
 
 カリキュラムの目的
 
